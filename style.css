@@ -1,0 +1,16 @@
+.animation {
+    background: lightsalmon;
+    margin: 3% 20%;
+    
+}
+
+form {
+    background: lightsalmon;
+    width: 200px;
+    height: 100px;
+    transition: 3s all;
+}
+
+.boom {
+    margin-left: 3000px;
+}
